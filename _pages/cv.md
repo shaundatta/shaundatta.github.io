@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-Under construction.
+Here is my [curriculum vitae](https://shaundatta.github.io/files/Datta-Ishaun_CV.pdf).
