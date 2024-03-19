@@ -25,3 +25,7 @@ Contributed talk at Quantum Information Processing (QIP), 2024.
 **Going Beyond Gadgets: The Importance of Scalability for Analogue Quantum Simulators.** [[arXiv]](https://arxiv.org/abs/2306.13739)\
 With Dylan Harley, Frederik Ravn Klausen, Andreas Bluhm, Daniel Stilck França, Albert Werner, Matthias Christandl.\
 Contributed talk at Quantum Information Processing (QIP), 2024.
+
+**Pseudo-dimension of quantum circuits.** [[arXiv](https://arxiv.org/abs/2002.01490), [journal](https://link.springer.com/article/10.1007/s42484-020-00027-5)]\
+With Matthias Caro.\
+In _Quantum Machine Intelligence_, 2020.
