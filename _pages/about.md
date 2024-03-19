@@ -15,3 +15,13 @@ Much of my research centers on the nexus of quantum complexity theory and near-t
 
 ## CV
 Here is my [curriculum vitae](https://shaundatta.github.io/files/Datta-Ishaun_CV.pdf).
+
+## Papers
+
+**Complexity-theoretic foundations of BosonSampling with a linear number of modes.** [[arXiv]](https://arxiv.org/abs/2312.00286)\
+With Adam Bouland, Daniel Brod, Bill Fefferman, Daniel Grier, Felipe Hernández, Michał Oszmaniec.\
+Contributed talk at Quantum Information Processing (QIP), 2024.
+
+**Going Beyond Gadgets: The Importance of Scalability for Analogue Quantum Simulators.** [[arXiv]](https://arxiv.org/abs/2306.13739)\
+With Dylan Harley, Frederik Ravn Klausen, Andreas Bluhm, Daniel Stilck França, Albert Werner, Matthias Christandl.\
+Contributed talk at Quantum Information Processing (QIP), 2024.
