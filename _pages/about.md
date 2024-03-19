@@ -26,10 +26,12 @@ Contributed talk at Quantum Information Processing (QIP), 2024.
 With Dylan Harley, Frederik Ravn Klausen, Andreas Bluhm, Daniel Stilck França, Albert Werner, Matthias Christandl.\
 Contributed talk at Quantum Information Processing (QIP), 2024.
 
-**Pseudo-dimension of quantum circuits.** [[arXiv](https://arxiv.org/abs/2002.01490), [journal](https://link.springer.com/article/10.1007/s42484-020-00027-5)]\
+**Pseudo-dimension of quantum circuits.** [[arXiv](https://arxiv.org/abs/2002.01490), [journal](https://link.springer.com/article/10.1007/s42484-020-00027-5), [video summary](https://youtu.be/VtNTqJuhdd8)]\
 With Matthias C. Caro.\
 In _Quantum Machine Intelligence_, 2020.
 
 **Density of Saturated Nuclear Matter at Large Nc and Heavy Quark Mass Limits.** [[arXiv](https://arxiv.org/abs/1312.3339), [journal](https://journals.aps.org/prc/abstract/10.1103/PhysRevC.89.065201)]\
 With Prabal Adhikari, Thomas D. Cohen.\
 In _Physical Review C_, 2014.
+
+
