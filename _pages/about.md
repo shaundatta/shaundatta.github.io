@@ -12,3 +12,5 @@ I am a PhD student in the Computer Science Theory Group at Stanford University, 
 I am currently a [long-term visitor](https://simons.berkeley.edu/people/shaun-datta) at the Simons Institute for its program on [Quantum Algorithms, Complexity, and Fault Tolerance](https://simons.berkeley.edu/programs/quantum-algorithms-complexity-fault-tolerance).
 
 Much of my research centers on the nexus of quantum complexity theory and near-term quantum computation. Of particular interest is how reasoning about how complexity classes up in the heavens (often called ["structural complexity"](https://en.wikipedia.org/wiki/Structural_complexity_theory)) can say something about real experiments here on Earth. I am also animated by questions in quantum simulation and quantum learning theory. 
+
+Here is my [curriculum vitae](https://shaundatta.github.io/files/Datta-Ishaun_CV.pdf).
