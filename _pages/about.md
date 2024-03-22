@@ -18,7 +18,7 @@ Here is my [curriculum vitae](https://shaundatta.github.io/files/Datta-Ishaun_CV
 
 ## Selected papers
 
-**Complexity-theoretic foundations of BosonSampling with a linear number of modes.** [[arXiv]](https://arxiv.org/abs/2312.00286) [[video of QIP talk]](https://youtu.be/_y9WzPwZTig?si=qLm_7PXtyfqOypgo)\
+**Complexity-theoretic foundations of BosonSampling with a linear number of modes.** [[arXiv](https://arxiv.org/abs/2312.00286), [video of QIP talk](https://youtu.be/_y9WzPwZTig?si=qLm_7PXtyfqOypgo)]\
 With Adam Bouland, Daniel Brod, Bill Fefferman, Daniel Grier, Felipe Hernández, Michał Oszmaniec.\
 Contributed talk at Quantum Information Processing (QIP), 2024.
 
