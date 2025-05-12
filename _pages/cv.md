@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-Here is my [curriculum vitae](https://shaundatta.github.io/files/Datta-Ishaun_CV.pdf).
+Here is my [curriculum vitae](https://shaundatta.github.io/files/cv_datta_0525.pdf).
