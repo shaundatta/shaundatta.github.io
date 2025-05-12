@@ -17,7 +17,7 @@ I am a PhD student in the Computer Science Theory Group at Stanford University, 
 Much of my research centers on the nexus of quantum complexity theory and near-term quantum computation. Of particular interest is how reasoning about how complexity classes up in the heavens (often called ["structural complexity"](https://en.wikipedia.org/wiki/Structural_complexity_theory)) can say something about real experiments here on Earth. I am also animated by questions in quantum simulation and quantum learning theory. 
 
 ## CV
-Here is my [curriculum vitae](https://shaundatta.github.io/files/Datta-Ishaun_CV.pdf).
+Here is my [curriculum vitae](https://shaundatta.github.io/files/cv_datta_0525.pdf).
 
 ## Selected papers
 **Exponential improvements to the average-case hardness of BosonSampling.** [[arXiv](https://arxiv.org/abs/2411.04566), [latest manuscript](https://github.com/shaundatta/shaundatta.github.io/blob/f8bbed59e81eeeceb643ac5b579efaef3b76618a/files/Exponential%20improvements%20to%20the%20average-case%20hardness%20of%20BosonSampling.pdf)]\
