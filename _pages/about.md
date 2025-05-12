@@ -20,6 +20,8 @@ Much of my research centers on the nexus of quantum complexity theory and near-t
 Here is my [curriculum vitae](https://shaundatta.github.io/files/Datta-Ishaun_CV.pdf).
 
 ## Selected papers
+**Exponential improvements to the average-case hardness of BosonSampling.** [[arXiv](https://arxiv.org/abs/2411.04566)]\
+With Adam Bouland, Bill Fefferman, Felipe Hernández.
 
 **Complexity-theoretic foundations of BosonSampling with a linear number of modes.** [[arXiv](https://arxiv.org/abs/2312.00286), [video of talk at UChicago](https://drive.google.com/file/d/1u9TfDp8ky5SVhExUQYWMbDTAdqPXOZH8/view?usp=sharing), [video of QIP talk](https://youtu.be/_y9WzPwZTig?si=qLm_7PXtyfqOypgo)]\
 With Adam Bouland, Daniel Brod, Bill Fefferman, Daniel Grier, Felipe Hernández, Michał Oszmaniec.\
