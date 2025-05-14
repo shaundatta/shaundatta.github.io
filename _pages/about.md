@@ -27,7 +27,7 @@ With Adam Bouland, Bill Fefferman, Felipe Hernández.
 With Adam Bouland, Daniel Brod, Bill Fefferman, Daniel Grier, Felipe Hernández, Michał Oszmaniec.\
 Contributed talk at Quantum Information Processing (QIP), 2024.
 
-**Going beyond gadgets: the importance of scalability for analogue quantum simulators.** [[arXiv]](https://arxiv.org/abs/2306.13739), [[journal]](https://www.nature.com/articles/s41467-024-50744-9)\
+**Going beyond gadgets: the importance of scalability for analogue quantum simulators.** [[arXiv](https://arxiv.org/abs/2306.13739), [journal](https://www.nature.com/articles/s41467-024-50744-9)]\
 With Dylan Harley, Frederik Ravn Klausen, Andreas Bluhm, Daniel Stilck França, Albert Werner, Matthias Christandl.\
 Contributed talk at Quantum Information Processing (QIP), 2024.\
 In _Nature Communications_, 2024.
