@@ -22,7 +22,7 @@ Here is my [curriculum vitae](https://shaundatta.github.io/files/cv_datta_0525.p
 ## Selected papers
 **Exponential improvements to the average-case hardness of BosonSampling.** [[arXiv](https://arxiv.org/abs/2411.04566), [latest manuscript](https://github.com/shaundatta/shaundatta.github.io/blob/8160fe12970cff013e2d33e81882f2f05a622e42/files/Exponential%20improvements%20to%20the%20average-case%20hardness%20of%20BosonSampling.pdf), [video of Simons talk](https://simons.berkeley.edu/talks/shaun-datta-stanford-university-2025-07-08)]\
 With Adam Bouland, Bill Fefferman, Felipe Hernández.\
-Contributed talk at FOCS 2025.
+To appear in Proc. FOCS 2025.
 
 **Complexity-theoretic foundations of BosonSampling with a linear number of modes.** [[arXiv](https://arxiv.org/abs/2312.00286), [video of talk at UChicago](https://drive.google.com/file/d/1u9TfDp8ky5SVhExUQYWMbDTAdqPXOZH8/view?usp=sharing), [video of QIP talk](https://youtu.be/_y9WzPwZTig?si=qLm_7PXtyfqOypgo)]\
 With Adam Bouland, Daniel Brod, Bill Fefferman, Daniel Grier, Felipe Hernández, Michał Oszmaniec.\
