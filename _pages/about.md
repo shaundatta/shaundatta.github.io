@@ -41,4 +41,7 @@ In _Quantum Machine Intelligence_, 2020.
 With Prabal Adhikari, Thomas D. Cohen.\
 In _Physical Review C_, 2014.
 
-
+## Forthcoming
+**Higher moment theory and learnability of bosonic states.**<br>
+With Joe Iosue, Yu-Xin Wang, Soumik Ghosh, Changhun Oh, Bill Fefferman, Alexey Gorshkov.\
+To be posted before 10/10.
