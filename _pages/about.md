@@ -20,7 +20,7 @@ Much of my research centers on the nexus of quantum complexity theory and near-t
 Here is my [curriculum vitae](https://shaundatta.github.io/files/cv_datta_0525.pdf).
 
 ## Selected papers
-**Exponential improvements to the average-case hardness of BosonSampling.** [[arXiv](https://arxiv.org/abs/2411.04566), [latest manuscript](https://github.com/shaundatta/shaundatta.github.io/blob/8160fe12970cff013e2d33e81882f2f05a622e42/files/Exponential%20improvements%20to%20the%20average-case%20hardness%20of%20BosonSampling.pdf), [video of Simons talk](https://simons.berkeley.edu/talks/shaun-datta-stanford-university-2025-07-08), [slides](https://simons.berkeley.edu/sites/default/files/2025-07/Exponential%20improvements%20to%20the%20average-case%20hardness%20of%20random%20circuits.pdf)]\
+**Exponential improvements to the average-case hardness of BosonSampling.** [[arXiv](https://arxiv.org/abs/2411.04566), [video of Simons talk](https://simons.berkeley.edu/talks/shaun-datta-stanford-university-2025-07-08), [slides](https://simons.berkeley.edu/sites/default/files/2025-07/Exponential%20improvements%20to%20the%20average-case%20hardness%20of%20random%20circuits.pdf)]\
 With Adam Bouland, Bill Fefferman, Felipe Hernández.\
 To appear in Proc. FOCS 2025.
 
