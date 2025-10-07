@@ -20,6 +20,10 @@ Much of my research centers on the nexus of quantum complexity theory and near-t
 Here is my [curriculum vitae](https://shaundatta.github.io/files/cv_datta_0525.pdf).
 
 ## Selected papers
+
+**Higher moment theory and learnability of bosonic states.** [[arXiv](https://arxiv.org/abs/2510.01610)]\
+With Joe Iosue, Yu-Xin Wang, Soumik Ghosh, Changhun Oh, Bill Fefferman, Alexey Gorshkov.
+
 **Exponential improvements to the average-case hardness of BosonSampling.** [[arXiv](https://arxiv.org/abs/2411.04566), [video of Simons talk](https://simons.berkeley.edu/talks/shaun-datta-stanford-university-2025-07-08), [slides](https://simons.berkeley.edu/sites/default/files/2025-07/Exponential%20improvements%20to%20the%20average-case%20hardness%20of%20random%20circuits.pdf)]\
 With Adam Bouland, Bill Fefferman, Felipe Hernández.\
 To appear in Proc. FOCS 2025.
@@ -41,7 +45,4 @@ In _Quantum Machine Intelligence_, 2020.
 With Prabal Adhikari, Thomas D. Cohen.\
 In _Physical Review C_, 2014.
 
-## Forthcoming
-**Higher moment theory and learnability of bosonic states.**<br>
-With Joe Iosue, Yu-Xin Wang, Soumik Ghosh, Changhun Oh, Bill Fefferman, Alexey Gorshkov.\
-To be posted before 10/10.
+
