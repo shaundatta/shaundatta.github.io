@@ -22,19 +22,21 @@ Here is my [curriculum vitae](https://shaundatta.github.io/files/cv_datta_0525.p
 ## Selected papers
 
 **Higher moment theory and learnability of bosonic states.** [[arXiv](https://arxiv.org/abs/2510.01610)]\
-With Joe Iosue, Yu-Xin Wang, Soumik Ghosh, Changhun Oh, Bill Fefferman, Alexey Gorshkov.
+With Joe Iosue, Yu-Xin Wang, Soumik Ghosh, Changhun Oh, Bill Fefferman, Alexey Gorshkov.\
+In submission.
 
 **Exponential improvements to the average-case hardness of BosonSampling.** [[arXiv](https://arxiv.org/abs/2411.04566), [video of Simons talk](https://simons.berkeley.edu/talks/shaun-datta-stanford-university-2025-07-08), [slides](https://simons.berkeley.edu/sites/default/files/2025-07/Exponential%20improvements%20to%20the%20average-case%20hardness%20of%20random%20circuits.pdf)]\
 With Adam Bouland, Bill Fefferman, Felipe Hernández.\
-To appear in Proc. FOCS 2025.
+Contributed talk at Quantum Information Processing (QIP) 2026.\
+To appear in Proc. of IEEE Symposium on Foundations of Computer Science (FOCS) 2025.
 
 **Complexity-theoretic foundations of BosonSampling with a linear number of modes.** [[arXiv](https://arxiv.org/abs/2312.00286), [video of talk at UChicago](https://drive.google.com/file/d/1u9TfDp8ky5SVhExUQYWMbDTAdqPXOZH8/view?usp=sharing), [video of QIP talk](https://youtu.be/_y9WzPwZTig?si=qLm_7PXtyfqOypgo)]\
 With Adam Bouland, Daniel Brod, Bill Fefferman, Daniel Grier, Felipe Hernández, Michał Oszmaniec.\
-Contributed talk at Quantum Information Processing (QIP), 2024.
+Contributed talk at Quantum Information Processing (QIP) 2024.
 
 **Going beyond gadgets: the importance of scalability for analogue quantum simulators.** [[arXiv](https://arxiv.org/abs/2306.13739), [journal](https://www.nature.com/articles/s41467-024-50744-9)]\
 With Dylan Harley, Frederik Ravn Klausen, Andreas Bluhm, Daniel Stilck França, Albert Werner, Matthias Christandl.\
-Contributed talk at Quantum Information Processing (QIP), 2024.\
+Contributed talk at Quantum Information Processing (QIP) 2024.\
 In _Nature Communications_, 2024.
 
 **Pseudo-dimension of quantum circuits.** [[arXiv](https://arxiv.org/abs/2002.01490), [journal](https://link.springer.com/article/10.1007/s42484-020-00027-5), [video summary](https://youtu.be/VtNTqJuhdd8)]\
