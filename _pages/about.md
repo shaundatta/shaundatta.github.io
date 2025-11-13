@@ -17,7 +17,7 @@ I am a PhD student in the Computer Science Theory Group at Stanford University, 
 Much of my research centers on the nexus of quantum complexity theory and near-term quantum computation. I am also animated by questions in quantum simulation and quantum learning theory. 
 
 ## CV
-Here is my [curriculum vitae](https://shaundatta.github.io/files/cv_datta_0525.pdf).
+Here is my [curriculum vitae](https://shaundatta.github.io/files/CV_Shaun_Datta.pdf).
 
 ## Selected papers
 
