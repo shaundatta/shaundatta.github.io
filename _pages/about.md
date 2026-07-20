@@ -48,4 +48,7 @@ In _Quantum Machine Intelligence_, 2020.
 With Prabal Adhikari, Thomas D. Cohen.\
 In _Physical Review C_, 2014.
 
+## Service
+
+I will serve on the Program Committee for QIP 2027.
 
