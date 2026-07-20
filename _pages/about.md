@@ -12,7 +12,7 @@ _"Quantum complexity is subtle, ethereal, ..., ghostly, and unfeelable."_\
 
 I am a PhD student in the Computer Science Theory Group at Stanford University, where I'm fortunate to be advised by [Adam Bouland](https://theory.stanford.edu/~abouland/). Previously, I was an undergraduate in Physics and Mathematics with Computer Science at MIT. During the 2018-9 academic year I was a member of [Michael Wolf](https://www.math.cit.tum.de/en/math/people/professors/wolf-michael/)'s group at [TUM](https://www.tum.de/en/), where I was supported by a DAAD research grant, and in the spring of 2022 I was a visiting doctoral student with [Matthias Christandl](https://www.math.ku.dk/english/staff/?pure=en/persons/475476) at [QMATH](https://qmath.ku.dk/) in Copenhagen. I was a research intern at IBM Quantum in 2022 and Intel Labs in 2019. In 2024 and again in 2025, I was a [long-term visitor](https://simons.berkeley.edu/people/shaun-datta) at the Simons Institute for its program on [Quantum Algorithms, Complexity, and Fault Tolerance](https://simons.berkeley.edu/programs/quantum-algorithms-complexity-fault-tolerance) and the [Summer Cluster on Quantum Computing](https://simons.berkeley.edu/programs/summer-cluster-quantum-computing-2025). I am grateful to be supported by an NSF Graduate Research Fellowship and a [Gerald J. Lieberman Fellowship](https://vpge.stanford.edu/fellowships-funding/gerald-j-lieberman-fellowship).
 
-
+In the fall, I will join [Henry Yuen's group](https://www.henryyuen.net/) at Columbia University as a Postdoctoral Research Scientist.
 
 Much of my research centers on the nexus of quantum complexity theory and near-term quantum computation. I am also animated by questions in quantum simulation and quantum learning theory. 
 
@@ -25,14 +25,15 @@ Here is my [curriculum vitae](https://shaundatta.github.io/files/CV_Shaun_Datta.
 With Joe Iosue, Yu-Xin Wang, Soumik Ghosh, Changhun Oh, Bill Fefferman, Alexey Gorshkov.\
 Contributed talk at Theory of Quantum Computation, Communication and Cryptography (TQC) 2026.
 
-**Exponential improvements to the average-case hardness of BosonSampling.** [[arXiv](https://arxiv.org/abs/2411.04566), [video of Simons talk](https://simons.berkeley.edu/talks/shaun-datta-stanford-university-2025-07-08), [slides](https://simons.berkeley.edu/sites/default/files/2025-07/Exponential%20improvements%20to%20the%20average-case%20hardness%20of%20random%20circuits.pdf)]\
+**Exponential improvements to the average-case hardness of BosonSampling.** [[arXiv](https://arxiv.org/abs/2411.04566), [FOCS proceedings](https://www.computer.org/csdl/proceedings-article/focs/2025/713200a912/2dXXLiI621G), [video of Simons talk](https://simons.berkeley.edu/talks/shaun-datta-stanford-university-2025-07-08), [slides](https://simons.berkeley.edu/sites/default/files/2025-07/Exponential%20improvements%20to%20the%20average-case%20hardness%20of%20random%20circuits.pdf)]\
 With Adam Bouland, Bill Fefferman, Felipe Hernández.\
 Contributed talk at Quantum Information Processing (QIP) 2026.\
-To appear in Proc. of IEEE Symposium on Foundations of Computer Science (FOCS) 2025.
+In Proc. of IEEE Symposium on Foundations of Computer Science (FOCS) 2025.
 
-**Complexity-theoretic foundations of BosonSampling with a linear number of modes.** [[arXiv](https://arxiv.org/abs/2312.00286), [video of talk at UChicago](https://drive.google.com/file/d/1u9TfDp8ky5SVhExUQYWMbDTAdqPXOZH8/view?usp=sharing), [video of QIP talk](https://youtu.be/_y9WzPwZTig?si=qLm_7PXtyfqOypgo)]\
+**Complexity-theoretic foundations of BosonSampling with a linear number of modes.** [[arXiv](https://arxiv.org/abs/2312.00286), [journal](https://journals.aps.org/prx/abstract/10.1103/xc7b-sjm5), [video of talk at UChicago](https://drive.google.com/file/d/1u9TfDp8ky5SVhExUQYWMbDTAdqPXOZH8/view?usp=sharing), [video of QIP talk](https://youtu.be/_y9WzPwZTig?si=qLm_7PXtyfqOypgo)]\
 With Adam Bouland, Daniel Brod, Bill Fefferman, Daniel Grier, Felipe Hernández, Michał Oszmaniec.\
-Contributed talk at Quantum Information Processing (QIP) 2024.
+Contributed talk at Quantum Information Processing (QIP) 2024.\
+In _Physical Review X_, 2026.
 
 **Going beyond gadgets: the importance of scalability for analogue quantum simulators.** [[arXiv](https://arxiv.org/abs/2306.13739), [journal](https://www.nature.com/articles/s41467-024-50744-9)]\
 With Dylan Harley, Frederik Ravn Klausen, Andreas Bluhm, Daniel Stilck França, Albert Werner, Matthias Christandl.\
